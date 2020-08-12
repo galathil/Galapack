@@ -6,3 +6,4 @@ Based on Onigiris pack (https://minecraft-fr.gamepedia.com/Onigiris)
 ## Features
 
 - Netherite stuff textures (armor, tools, sword)
+- Updated original Sky for MC 1.16
