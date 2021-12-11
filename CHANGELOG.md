@@ -1,4 +1,6 @@
 # Galapack changelog
+## 1.4.0
+- Up to MC 1.18.*
 ## 1.3.0
 - Up to MC 1.17
 ## 1.2.0
