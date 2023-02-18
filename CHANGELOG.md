@@ -1,4 +1,7 @@
 # Galapack changelog
+## 1.6.0
+- Up to MC 1.19.3 pack format
+- Remove dependancy to "Onigiris_SkyArms_x32_1.7-A", no longer needed for the Galapack
 ## 1.5.0
 - Up to MC 1.19.*
 ## 1.4.0
