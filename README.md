@@ -2,7 +2,8 @@
 ![](https://img.shields.io/github/license/galathil/Galapack.svg)  ![](https://img.shields.io/github/release/galathil/Galapack.svg) ![]( https://img.shields.io/github/issues/galathil/Galapack.svg)  ![]( https://img.shields.io/github/stars/galathil/Galapack.svg)  ![]( https://img.shields.io/github/forks/galathil/Galapack.svg)
 
 ## Download links
-- [For Minecraft 1.19](https://github.com/galathil/Galapack/releases/download/1.5.0/Galapack_1.5.0.zip)
+- [For Minecraft 1.19.3](https://github.com/galathil/Galapack/releases/download/1.6.0/Galapack_1.6.0.1.19.3.zip)
+- [For Minecraft 1.19 - 1.19.2](https://github.com/galathil/Galapack/releases/download/1.5.0/Galapack_1.5.0.zip)
 - [For Minecraft 1.18](https://github.com/galathil/Galapack/releases/download/1.4.0/Galapack_1.4.0.zip)
 - [For Minecraft 1.17](https://github.com/galathil/Galapack/releases/download/1.3.0/Galapack_1.3.0.zip)
 - [For Minecraft 1.16.2 - 1.16.5](https://github.com/galathil/Galapack/releases/download/1.2.0/Galapack_1.2.0.zip)
@@ -13,9 +14,6 @@
 Based on Onigiris pack (https://minecraft-fr.gamepedia.com/Onigiris)
 
 ![](https://static.galathil.fr/img/github/galapack.png)
-
-## Requirements
-- Onigiris SkyArms 1.7 (https://minecraft-fr.gamepedia.com/Onigiris)
 
 ## Features
 
