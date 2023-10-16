@@ -1,4 +1,4 @@
-# Galapack (1.16.1 > 1.19.*)
+# Galapack (1.16.1 to 1.19.3)
 ![](https://img.shields.io/github/license/galathil/Galapack.svg)  ![](https://img.shields.io/github/release/galathil/Galapack.svg) ![]( https://img.shields.io/github/issues/galathil/Galapack.svg)  ![]( https://img.shields.io/github/stars/galathil/Galapack.svg)  ![]( https://img.shields.io/github/forks/galathil/Galapack.svg)
 
 ## Download links
@@ -10,10 +10,16 @@
 - [For Minecraft 1.16.1](https://github.com/galathil/Galapack/releases/download/1.1.0/Galapack_1.1.0.zip)
 - [Onigiris_SkyArms_x32_1.7-A](https://github.com/galathil/Galapack/releases/download/1.1.0/Onigiris_SkyArms_x32_1.7-A.zip)
 
+## Install
+* place the zip archive into your ressource packs folder
+* For Minecraft 1.19.2 and below : In addition, you need to add the original [Onigiris pack](https://github.com/galathil/Galapack/releases/download/1.1.0/Onigiris_SkyArms_x32_1.7-A.zip)) in your ressource packs folder
+
 ## Description
 Based on Onigiris pack (https://minecraft-fr.gamepedia.com/Onigiris)
 
-![](https://static.galathil.fr/img/github/galapack.png)
+<picture>
+  <img alt="Showcase" src="showcase.png">
+</picture>
 
 ## Features
 
