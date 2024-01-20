@@ -1,4 +1,6 @@
 # Galapack changelog
+## 200
+- Up to MC 1.20.4 - Minecraft 1.20.3 is not supported due to a critical, please upgrade your game to 1.20.4
 ## 190
 - Up to MC 1.20.2
 ## 180
