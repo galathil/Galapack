@@ -1,7 +1,9 @@
-# Galapack (1.15 to 1.19.4)
+# Galapack (1.15 to 1.20.1)
 ![](https://img.shields.io/github/license/galathil/Galapack.svg)  ![](https://img.shields.io/github/release/galathil/Galapack.svg) ![]( https://img.shields.io/github/issues/galathil/Galapack.svg)  ![]( https://img.shields.io/github/stars/galathil/Galapack.svg)  ![]( https://img.shields.io/github/forks/galathil/Galapack.svg)
 
+
 ## Download links
+- [For Minecraft 1.20 - 1.20.1](https://github.com/galathil/Galapack/releases/download/180/Galapack_180_1.20.zip)
 - [For Minecraft 1.19.4](https://github.com/galathil/Galapack/releases/download/170/Galapack_170_1.19.4.zip)
 - [For Minecraft 1.19.3](https://github.com/galathil/Galapack/releases/download/1.6.1/Galapack_161_1.19.3.zip)
 - [For Minecraft 1.19 - 1.19.2](https://github.com/galathil/Galapack/releases/download/1.5.0/Galapack_1.5.0.zip)
