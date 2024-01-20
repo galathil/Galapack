@@ -1,7 +1,7 @@
 # Galapack changelog
-## 170
-- Up to MC 1.20/1.20.1
 ## 180
+- Up to MC 1.20/1.20.1
+## 170
 - Up to MC 1.19.4
 ## 1.6.1
 - Fix armors textures (iron, diamond)
