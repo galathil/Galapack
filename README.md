@@ -28,7 +28,7 @@ Based on Onigiris pack (https://minecraft-fr.gamepedia.com/Onigiris)
 - Fix onigiris Skybox (need Optifine to work properly)
 
 ## Links
-- [Download last release](https://github.com/galathil/Galapack/archive/refs/heads/master.zip)
+- [Download the last release (sources)](https://github.com/galathil/Galapack/archive/refs/heads/master.zip)
 - [All releases](https://github.com/galathil/Galapack/releases)
 - [Changelog](https://github.com/galathil/Galapack/blob/master/CHANGELOG.md)
 - [Suggestions and issues](https://github.com/galathil/Galapack/issues)
