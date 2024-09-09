@@ -1,4 +1,6 @@
 # Galapack changelog
+## 1.21.1
+- Up to MC 1.21/1.21.1
 ## 1.20.5
 - Up to MC 1.20.5/1.20.6
 ## 200
