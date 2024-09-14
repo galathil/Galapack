@@ -19,7 +19,11 @@
 - [Onigiris_SkyArms_x32_1.7-A](https://github.com/galathil/Galapack/releases/download/1.1.0/Onigiris_SkyArms_x32_1.7-A.zip)
 
 ## Install
-* place the zip archive into your ressource packs folder
+* Place the zip archive into your `resourcepacks` folder
+* Skyboxes are not a vanilla feature, to enable it you need :
+  * For vanilla : [Optifine](https://optifine.net/)
+  * For Forge : [Optifine](https://optifine.net/)
+  * For Fabric : [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) + [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
 * For Minecraft 1.19.2 and below : In addition, you need to add the original [Onigiris pack](https://github.com/galathil/Galapack/releases/download/1.1.0/Onigiris_SkyArms_x32_1.7-A.zip)) in your ressource packs folder
 
 ## Description
